@@ -1,0 +1,20 @@
+{
+  "name": "study-webpack",
+  "version": "1.0.0",
+  "description": "webpack을 공부해보자",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "echo \"여기에 빌드 스크립트를 추가합니다\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gareen9342/study-webpack.git"
+  },
+  "author": "Garin Cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gareen9342/study-webpack/issues"
+  },
+  "homepage": "https://github.com/gareen9342/study-webpack#readme"
+}
