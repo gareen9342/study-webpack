@@ -1,0 +1,5 @@
+body{
+    background-color: green;
+    background-image: url(webpack01.png); 
+    /* index.html을 기준으로 했을 때 상대 경로를 지정해줘야한다.  */
+}
