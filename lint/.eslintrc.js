@@ -14,7 +14,7 @@ module.export= {
       },
       extends: "eslint:recommended",
       globals: {
-        Atomics: "readonly",
+        Atomics: "readonly  ",
         SharedArrayBuffer: "readonly"
       },
       parserOptions: {
